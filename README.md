@@ -1,5 +1,10 @@
 # [Project 1: Noise](https://github.com/CIS-566-Fall-2022/hw01-fireball-base)
 
+Link: https://christinaqiu3.com/hw01-fireball/
+
+* used sin, cos, bias, gain, fbm, worley, sawtooth, easeOutBounce functions to create a fireball animation
+* let users pick scale of speed, colors of the flame, color of the background, and reset the values
+
 ## Objective
 
 Get comfortable with using WebGL and its shaders to generate an interesting 3D, continuous surface using a multi-octave noise algorithm.
